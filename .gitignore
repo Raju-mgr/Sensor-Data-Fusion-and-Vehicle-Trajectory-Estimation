@@ -19,4 +19,8 @@ env/
 
 # System files
 .DS_Store
+<<<<<<< HEAD
 Thumbs.db
+=======
+Thumbs.db
+>>>>>>> f4b614c0299cabf92d3d20d707269fecd99a69b5
